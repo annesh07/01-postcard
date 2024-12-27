@@ -1,0 +1,34 @@
+---
+title: "Annesh Pal"
+image: "20241202_130510.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/annesh-pal-4635a8240/"
+  - label: GitHub
+    url: "https://github.com/annesh07"
+  - label: Orchid
+    url: "https://orcid.org/my-orcid?orcid=0009-0003-2146-180X"
+  - label: Email
+    url: "annesh.pal@u-bordeaux.fr"
+output:
+  postcards::trestles
+---
+ 
+## Hi there!
+
+I am currently pursuing a doctoral degree in Biostatistics at the University of Bordeaux. My primary research interests include Bayesian Statistics, Mathematical modeling and Machine Learning, with particular emphasis on medical and biological data.
+
+I completed 5-years' Integrated BS-MS dual degree from Indian Institute of Science, Education and Research (IISER) Kolkata, India. My Master's thesis involved analyzing population estimation models, where the sensitivity of the estimates were studied based on choice of different weakly informative priors and loss functions.
+
+My current research focuses on developing a novel semi-supervised clustering method for high-dimensional data sets. Based on Bayesian non-parametric paradigm, I am working on a Dirichlet Process (DP) mixture model for kernel distributions of bulk transcriptomic data to allow discovery of new mixtures. The model will infer cellular proportions from RNA-seq data and thus help in predicting outcomes and evaluating surrogacy from clinical trial data sets.
+
+## Education
+
+**University of Bordeaux** | Bordeaux, France
+
+Ph.D. in Biostatistics | December 2023 - Present
+
+**Indian Institute of Science, Education and research** | Kolkata, India
+
+Integrated B.S.-M.S. in Mathematics and statistics | August 2017 - July 2022
+
