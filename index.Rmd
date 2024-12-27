@@ -2,8 +2,6 @@
 title: "Annesh Pal"
 image: "20241202_130510.jpg"
 links:
-  - label: Email
-    url: "annesh.pal@u-bordeaux.fr"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/annesh-pal-4635a8240/"
   - label: GitHub
