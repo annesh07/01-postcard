@@ -9,7 +9,7 @@ links:
   - label: ORCID
     url: "https://orcid.org/my-orcid?orcid=0009-0003-2146-180X"
   - label: CV
-    url: "https://drive.google.com/file/d/17VfRhvnJL8nqoKBKbXUncc8ijmX2k_ap/view?usp=drive_link"
+    url: "https://drive.google.com/file/d/17VfRhvnJL8nqoKBKbXUncc8ijmX2k_ap/view?usp=sharing"
 output:
   postcards::trestles
 ---
