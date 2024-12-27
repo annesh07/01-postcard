@@ -6,7 +6,7 @@ links:
     url: "https://www.linkedin.com/in/annesh-pal-4635a8240/"
   - label: GitHub
     url: "https://github.com/annesh07"
-  - label: Orchid
+  - label: ORCID
     url: "https://orcid.org/my-orcid?orcid=0009-0003-2146-180X"
   - label: CV
     url: "https://drive.google.com/file/d/17VfRhvnJL8nqoKBKbXUncc8ijmX2k_ap/view?usp=drive_link"
